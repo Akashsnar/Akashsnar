@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Singh Narvariya</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsnar&label=Profile%20views&color=0e75b6&style=flat" alt="akashsnar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsnar" alt="akashsnar" /></a> </p>
+
+- 👨🏻‍🎓 A graduate from IIIT Sricity
+  
+- 👀 I’m interested in Backend, FullStack and Software Development
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lyart-rho-36.vercel.app/](https://portfolio-lyart-rho-36.vercel.app/)
 
@@ -21,5 +25,5 @@
 <a href="https://www.leetcode.com/akash_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_si" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsnar&show_icons=true&locale=en&layout=compact" alt="akashsnar" /></p>
-
+## 🗂️ Portfolio
+[Want to Know More? View My Portfolio!](https://akash-portfolio-2004.vercel.app/)
